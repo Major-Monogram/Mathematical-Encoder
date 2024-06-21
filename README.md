@@ -1,4 +1,4 @@
-Description
+Description:
 This application provides a simple and secure way to encode text messages using a 4-digit PIN. The encoded message can then be decoded only with the correct PIN. If an incorrect PIN is used, instead of the real message a random string of letters will be generated.
 
 Features
